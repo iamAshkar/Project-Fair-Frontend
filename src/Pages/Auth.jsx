@@ -20,7 +20,7 @@ function Auth({ register }) {
 
   const handleRegister = async(e)=>{
     e.preventDefault()
-    if (!userData.username || !userData.email || !userData.phonenumber || !userData.password) {
+    if (!userData.username || !userData.email  || !userData.password) {
 
       Swal.fire({
         title: 'Warning!',
