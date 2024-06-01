@@ -43,7 +43,7 @@ function Footer() {
                 <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
                     © 2024 Copyright:
                     <a style={{ textDecoration: 'none' }} className='text-white' href='https://mdbootstrap.com/'>
-                        projecthub.com
+                        projectfair.com
                     </a>
                 </div>
             </MDBFooter>

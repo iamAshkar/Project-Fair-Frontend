@@ -41,13 +41,13 @@ console.log(homeProject);
           <MDBContainer fluid>
             <MDBNavbarBrand href="/" className="text-light fs-2 m-2">
               <GiLaptop className="text-light fs-1" />
-              Project Hub
+              Project Fair
             </MDBNavbarBrand>
           </MDBContainer>
         </MDBNavbar>
             <div className="row">
                 <div className="col-sm-6">
-                    <h1 className='text-center mt-5'>Project Hub</h1>
+                    <h1 className='text-center mt-5'>Project Fair</h1>
                     <p style={{ textAlign: 'justify' }} className='mx-5'>Project management involves the planning and organization of a company's resources to move a specific task, event, or duty toward completion. It can involve a one-time project or an ongoing activity, and resources managed include personnel, finances, technology, and intellectual property.
                         Project management is the process of leading a team to achieve project goals while considering constraints like budget, time, and scope. Project management can be broken down into five steps: initiation, planning, execution, monitoring, and closing
                     </p>
